@@ -1,19 +1,23 @@
 {
   "name": "portfolio",
   "private": true,
+  "homepage": "https://busydayhuh.github.io/portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@icons-pack/react-simple-icons": "^13.11.1",
     "@tailwindcss/vite": "^4.1.18",
     "aura-cursor": "^1.4.1",
     "embla-carousel-react": "^8.6.0",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.13.0",
