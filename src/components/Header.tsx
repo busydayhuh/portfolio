@@ -39,7 +39,7 @@ function ProfileInfo() {
             <img alt="ВМ" src={waving} className="pb-0.5 pl-0.5 size-4 wave" />
           </div>
         </h1>
-        <h2 className="text-sm">фронтенд-разработчик</h2>
+        <h2 className="text-sm">frontend-разработчик</h2>
       </div>
     </div>
   );
