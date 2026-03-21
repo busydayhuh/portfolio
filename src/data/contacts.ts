@@ -34,6 +34,6 @@ export const CONTACTS: Contacts = {
   cv: {
     title: "Резюме",
     username: "PDF",
-    link: "",
+    link: "https://disk.yandex.ru/i/GkdWt-MipPtRKw",
   },
 };
