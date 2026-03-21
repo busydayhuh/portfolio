@@ -1,5 +1,5 @@
 import { Link, useMatch } from "react-router-dom";
-import profileIcon from "../assets/profile-icon.png";
+import profileIcon from "../assets/avatar.jpg";
 import waving from "../assets/waving.png";
 import { CONTACTS } from "../data/contacts";
 import Button from "./Button";
