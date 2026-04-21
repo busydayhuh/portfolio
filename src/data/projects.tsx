@@ -433,8 +433,8 @@ export const PROJECTS: Project[] = [
       </>
     ),
     stack: [11, 16, 15],
-    demo_link: "https://busydayhuh.github.io/persona-5-fusion-calculator/",
-    github_link: "https://github.com/busydayhuh/persona-5-fusion-calculator",
+    demo_link: "https://busydayhuh.github.io/persona-5-fusions/",
+    github_link: "https://github.com/busydayhuh/persona-5-fusions",
     features: (
       <>
         <ul className="main-text star-list">
